@@ -14,7 +14,7 @@ var presentImage = document.getElementById("present-image");
 function init() {
   var graphElem = document.querySelector('.present-box > .side.top .to');
   graphElem.setAttribute('data-before', eventName);
-  document.querySelector('#card .title-card').innerHTML = 'Happy Birth Day Kieu';
+  document.querySelector('#card .title-card').innerHTML = 'Happy Birthday Kieu';
   document.querySelector('#card .content-card').innerHTML = 'Hope I did not spoil your birthday So I will close this note to you with good luck and wishes too Happy Birthday';
   document.querySelector('#card .honey').setAttribute('src', `${giftImage}`);
 
