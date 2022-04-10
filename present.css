@@ -152,7 +152,7 @@ html, body {
     transform: translateZ(-2px) translateY(50px);
   }
   .present-box > .side.top .to:after {
-    content: "Happy Birthday";
+    content: "This is a gift";
     display: inline-block;
     transform: rotateY(180deg);
     color: #990000;
